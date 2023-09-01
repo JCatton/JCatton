@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JCatton
-- 👀 I’m interested in Simulations and Data Analysis
+- 👀 I’m interested in Simulations, Data Analysis, and Database Management
 - 🌱 I’m currently learning Python, C++ and Git
 - 💞️ I’m looking to collaborate on nothing currently
 
